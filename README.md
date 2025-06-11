@@ -84,6 +84,3 @@ cd log-sense-logback-appender
 mvn clean install
 License
 Distributed under the MIT License. See LICENSE for more information.
-
-
----
